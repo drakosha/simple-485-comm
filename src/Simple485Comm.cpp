@@ -1,4 +1,4 @@
-#include "simple-485-comm.h"
+#include "Simple485Comm.h"
 
 Simple485Comm::Simple485Comm(Stream &serial) : Simple485Comm(serial, 0) {}
 
