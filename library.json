@@ -1,0 +1,22 @@
+{
+    "name": "Simple485comm",
+    "version": "0.0.1",
+    "description": "Simple rs485 protocol",
+    "keywords": "serial,rs485,communication,protocol",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/drakosha/simple-485-comm.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Mikhail Kostryukov",
+        "email": "mike@triptrack.net"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://www.helloworld.org/",
+    "frameworks": "*",
+    "platforms": "*"
+  }
